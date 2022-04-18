@@ -1,3 +1,3 @@
 
 # EMPLOYEE DATA VISUALIZATION:
-![Dashboard_screenshot](Screenshots\wss3.PNG)
+![Dashboard_screenshot](Screenshots/ss3.PNG)
